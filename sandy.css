@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(139, 211, 211);
+}
+#home{
+    color: black;
+    font-weight: bold;
+    font-size: 15spx;
+    font-style: oblique;
+    border: 30px rgb(24, 2, 2) ;
+    padding: 5px 5px ;
+    margin: auto;
+}
+#contact{
+    color: black;
+    font-weight: bold;
+    font-size: 15spx;
+    font-style: oblique;
+    border: 30px rgb(24, 2, 2) ;
+    padding: 5px 5px ;
+    margin: auto;
+}
+#about{
+    color: black;
+    font-weight: bold;
+    font-size: 15spx;
+    font-style: oblique;
+    border: 30px rgb(24, 2, 2) ;
+    padding: 5px 5px ;
+    margin: auto;
+}
+#more{
+    color: black;
+    font-weight: bold;
+    font-size: 15spx;
+    font-style: oblique;
+    border: 30px rgb(24, 2, 2) ;
+    padding: 5px 5px ;
+    scroll-margin-top: 01000px ;
+}
+header{
+    padding: 10px 20px;
+    margin: 10px 250px;
+    color: black;
+    font-weight: bold;
+    width: 455px;
+}
+#name{
+    border: 2px 3px;
+    padding: 3px 3px;
+    margin: 5px 5px;
+    color: black;
+    font-weight: bold;
+    width: 250px;
+}
+.form{
+    border: 2px 3px;
+    padding: 3px 3px;
+    margin: 5px 5px;
+    color: black;
+    font-weight: bold;
+    width: 250px;
+}
+#btn{
+    border: 10px 10px;
+    padding: 10px 10px;
+    margin: 5px 5px;
+    color: black;
+    font-weight: bold;
+    width: 250px;
+}
+
